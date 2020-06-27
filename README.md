@@ -1,4 +1,4 @@
-# SwitchCraft reloaded
+# SwitchCraft reloaded (WIP)
 Better version of SwitchCraft with ray tracing
 
 ## Controls
