@@ -1,4 +1,4 @@
-# SwitchCraft reloaded (WIP)
+# SwitchCraft reloaded (might finish this at some point, currently working on some near-eye light field stuff instead)
 Better version of SwitchCraft with ray tracing
 
 ## Controls
